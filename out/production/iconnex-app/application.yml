@@ -1,0 +1,23 @@
+
+spring:
+  application:
+    name: iconnex
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+management:
+  server:
+    port: 37000
+    ssl:
+      enabled: false
+  endpoints:
+    web:
+      bse-path: /
+      exposure:
+        include: health
+
+server:
+  port: 36000
+  ssl:
+    enabled: false

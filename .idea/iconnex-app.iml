@@ -8,5 +8,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:3.1.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:6.0.12" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.0.12" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.12" level="project" />
   </component>
 </module>
